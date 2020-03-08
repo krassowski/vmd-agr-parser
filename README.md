@@ -1,4 +1,6 @@
 # VMD-generated .agr files parser
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+[![DOI](https://zenodo.org/badge/82987720.svg)](https://zenodo.org/badge/latestdoi/82987720)
 
 Simple script for plotting .agr (Grace) files created with VMD (Visual Molecular Dynamics). Allows export to csv/svg/png.
 
@@ -27,7 +29,7 @@ If you want to create plots matplotlib will be required:
 pip3 install --user matplotlib
 ```
 
-If it does not work, look at 'How to get pip section'.
+If it does not work, look at [How to get pip?](#how-to-get-pip) section.
 
 
 ### Example usages:
